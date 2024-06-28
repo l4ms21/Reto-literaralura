@@ -1,4 +1,4 @@
-# Segundo Reto Literalura 👩‍💻
+# Segundo Reto Literalura
 
 
 El objetivo de este reto es evaluar los conocimientos
